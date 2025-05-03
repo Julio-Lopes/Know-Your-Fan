@@ -31,7 +31,7 @@
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seuusuario/know-your-esports-fan.git
+git clone https://github.com/Julio-Lopes/Know-Your-Fan
 cd know-your-esports-fan
 ```
 

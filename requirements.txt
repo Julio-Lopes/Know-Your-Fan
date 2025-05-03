@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+Pillow
+pytesseract
+psycopg2-binary
+requests
+google-generativeai
+plotly

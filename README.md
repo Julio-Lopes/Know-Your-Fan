@@ -32,7 +32,7 @@
 
 ```bash
 git clone https://github.com/Julio-Lopes/Know-Your-Fan
-cd know-your-esports-fan
+cd Know-Your-Fan
 ```
 
 ### 2. Crie e ative o ambiente virtual

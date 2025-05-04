@@ -92,4 +92,20 @@ Tabela: `esports_fans`
 | streamers_seguidos | TEXT    |
 | links_validados    | TEXT    |
 
+### 📄 SQL para criação da tabela
+
+```sql
+CREATE TABLE IF NOT EXISTS esports_fans (
+    id SERIAL PRIMARY KEY,
+    nome TEXT,
+    cpf TEXT,
+    endereco TEXT,
+    interesses TEXT,
+    eventos_2024 TEXT,
+    compras_2024 TEXT,
+    temas_detectados TEXT,
+    streamers_seguidos TEXT,
+    links_validados TEXT
+);
+```
 ---
